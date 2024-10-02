@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\bin\Debug\net8.0\001-prvni-program-vypis-z-rady.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\bin\Debug\net8.0\001-prvni-program-vypis-z-rady.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\bin\Debug\net8.0\001-prvni-program-vypis-z-rady.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\bin\Debug\net8.0\001-prvni-program-vypis-z-rady.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\bin\Debug\net8.0\001-prvni-program-vypis-z-rady.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\001-prvni-program-vypis-z-rady.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\001-prvni-program-vypis-z-rady.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\001-prvni-program-vypis-z-rady.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\001-prvni-program-vypis-z-rady.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\001-prvni-program-vypis-z-rady.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\001-prvni-program-vypis-z-rady.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\refint\001-prvni-program-vypis-z-rady.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\001-prvni-program-vypis-z-rady.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\001-prvni-program-vypis-z-rady.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\001-prvni-program-vypis-z-rady\obj\Debug\net8.0\ref\001-prvni-program-vypis-z-rady.dll
