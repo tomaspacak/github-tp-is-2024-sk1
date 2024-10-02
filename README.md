@@ -2,3 +2,6 @@
 
 ## Toto je změna provedená na lokále
 tomas pacak
+
+cviko 3 - 2.10
+přímí commit + p
