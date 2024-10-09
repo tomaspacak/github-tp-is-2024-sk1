@@ -1,4 +1,4 @@
-{
+{   //json - systémové nastavení,... kouknout na tutorial
     "version": "0.2.0",
     "configurations": [
         {
@@ -14,7 +14,7 @@
             "args": [],
             "cwd": "${workspaceFolder}",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
-            "console": "externalTerminal",
+            "console": "externalTerminal", //program se spustí v externí kosoli
             "stopAtEntry": false
         },
         {
