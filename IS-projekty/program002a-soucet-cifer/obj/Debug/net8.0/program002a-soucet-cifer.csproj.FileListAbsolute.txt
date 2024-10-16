@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\bin\Debug\net8.0\program002a-soucet-cifer.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\refint\program002a-soucet-cifer.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\program002a-soucet-cifer.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program002a-soucet-cifer\obj\Debug\net8.0\ref\program002a-soucet-cifer.dll
