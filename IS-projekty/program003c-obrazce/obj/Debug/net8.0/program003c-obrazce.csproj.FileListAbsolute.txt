@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\bin\Debug\net8.0\program003c-obrazce.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\refint\program003c-obrazce.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\program003c-obrazce.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program003c-obrazce\obj\Debug\net8.0\ref\program003c-obrazce.dll
