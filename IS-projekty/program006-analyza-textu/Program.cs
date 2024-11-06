@@ -16,8 +16,8 @@ class Program {
             Console.Write("Zadejte text: ");
             string myText = Console.ReadLine();
            
-            string samohlasky = "aáeéěiíouůúy";
-            string souhlasky = "bcčdďfghjklmnňprqrřsštťvwxzž";
+            string samohlasky = "AaáEeéěIiíOoUuůúy";
+            string souhlasky = "BbCcčDĎdďFfGgHhJjKkLlMmNnňPpRrQqrŘřSŠsšTtťVvWwXxZŽzž";
             string cislice = "0123456789";
 
             int Pocetsamohlasky = 0;
