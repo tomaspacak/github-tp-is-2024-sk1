@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\bin\Debug\net8.0\program005-max-min.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\refint\program005-max-min.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\program005-max-min.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program005-max-min\obj\Debug\net8.0\ref\program005-max-min.dll
