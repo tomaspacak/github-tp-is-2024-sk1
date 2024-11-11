@@ -17,13 +17,13 @@ class Program {
             Console.Write("Zadejte počet generovaných čísel v celém čísle: ");
             int n;
             while(!int.TryParse(Console.ReadLine(), out n)) {
-                Console.Write ("Nezadali jste celé číslo");
+                Console.Write ("Nezadali jste celé číslo, zadejte celé číslo: ");
             }
             Console.WriteLine();
             Console.Write("Zadejte dolní mez v celém čísle: ");
             int dm;
             while(!int.TryParse(Console.ReadLine(), out dm)) {
-                Console.Write ("Nezadali jste celé číslo");
+                Console.Write ("Nezadali jste celé číslo, zadejte celé číslo: ");
             }
             Console.WriteLine();
             Console.Write("Zadejte horní mez v celém čísle: ");
@@ -51,23 +51,39 @@ class Program {
             //max a min
             int max = myArray[0];
             int min =  myArray[0];
-            int maxPozice = 1;
-            int minPozice = 1;
+            List<int> maxPozice = new List<int> { 1 };
+            List<int> minPozice = new List<int> { 1 };
+            int maxPocet = 1;
+            int minPocet = 1;
             for(int i = 1; i < n; i++) {
                 if(myArray[i] > max) {
                     max = myArray[i];
-                    maxPozice = i+1; //+1 protože se začíná od nuly
+                    maxPocet = 1;
+                    maxPozice.Clear();
+                    maxPozice.Add(i + 1);
+                } else if (myArray[i] == max) {
+                    maxPocet++;
+                    maxPozice.Add(i + 1);
                 }
+                
+                    
                 if(myArray[i] < min) {
                     min = myArray[i];
-                    minPozice = i+1;
+                    minPocet = 1;
+                    minPozice.Clear();
+                    minPozice.Add(i+1);
+                } else if (myArray[i] == min) {
+                    minPocet++;
+                    minPozice.Add(i+1);
                 }
+                
+                
             }
 
             //output
             Console.WriteLine();
-            Console.WriteLine("Maximum: {0}, první pozice: {1}", max, maxPozice);
-            Console.WriteLine("Minimum: {0}, první pozice: {1}", min, minPozice);
+            Console.WriteLine("Maximum: {0}, počet: {1}, pozice: {2}", max, /*maxPozice,*/ maxPocet, string.Join(", ", maxPozice));
+            Console.WriteLine("Minimum: {0}, počet: {1}, pozice: {2}", min, /*minPozice*/ minPocet, string.Join(", ", minPozice));
             Console.WriteLine();
             Console.WriteLine("Pro opakování stiskněte klávesu a");
             again = Console.ReadLine();
