@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\bin\Debug\net9.0\program009_reverzni_pole.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\bin\Debug\net9.0\program009_reverzni_pole.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\bin\Debug\net9.0\program009_reverzni_pole.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\bin\Debug\net9.0\program009_reverzni_pole.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\bin\Debug\net9.0\program009_reverzni_pole.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\program009_reverzni_pole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\program009_reverzni_pole.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\program009_reverzni_pole.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\program009_reverzni_pole.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\program009_reverzni_pole.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\program009_reverzni_pole.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\refint\program009_reverzni_pole.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\program009_reverzni_pole.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\program009_reverzni_pole.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program009_reverzni_pole\obj\Debug\net9.0\ref\program009_reverzni_pole.dll
