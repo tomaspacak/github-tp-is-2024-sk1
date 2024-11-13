@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\bin\Debug\net9.0\program007-bubble-sort.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\refint\program007-bubble-sort.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\program007-bubble-sort.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program007-bubble-sort\obj\Debug\net9.0\ref\program007-bubble-sort.dll
