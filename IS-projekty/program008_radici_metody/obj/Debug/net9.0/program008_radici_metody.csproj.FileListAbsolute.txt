@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\bin\Debug\net9.0\program008_radici_metody.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\bin\Debug\net9.0\program008_radici_metody.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\bin\Debug\net9.0\program008_radici_metody.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\bin\Debug\net9.0\program008_radici_metody.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\bin\Debug\net9.0\program008_radici_metody.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\program008_radici_metody.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\program008_radici_metody.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\program008_radici_metody.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\program008_radici_metody.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\program008_radici_metody.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\program008_radici_metody.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\refint\program008_radici_metody.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\program008_radici_metody.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\program008_radici_metody.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program008_radici_metody\obj\Debug\net9.0\ref\program008_radici_metody.dll

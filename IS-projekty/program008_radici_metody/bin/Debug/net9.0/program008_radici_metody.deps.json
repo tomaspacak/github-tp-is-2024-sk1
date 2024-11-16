@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "program008_radici_metody/1.0.0": {
+        "runtime": {
+          "program008_radici_metody.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "program008_radici_metody/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
