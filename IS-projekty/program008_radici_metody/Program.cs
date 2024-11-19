@@ -61,7 +61,7 @@ class Program {
             Console.WriteLine("   6 - Bubble sort");
             Console.WriteLine();
             Console.Write("Vyberte metodu k řazení, stisknutím 1, 2, 3, 4, 5 nebo 6: ");
-            Console.WriteLine();
+            
             int metoda;
             while(!int.TryParse(Console.ReadLine(), out metoda)) {
                 Console.Write ("Nezadali jste celé číslo, zadejte číslo: ");
@@ -108,39 +108,118 @@ class Program {
                 //Insertion sort
                 case 2:
                     myStopwatch.Start();
-                    for(int i =0; i < n-1; i++) {
-                        int minNumber = i;
-                        for(int j = i+1; j < n; j++) {
-                            //myCompare++;
-                            if(myArray[j-1] > myArray[j]) {
-                                int temp = myArray[j-1];
-                                myArray[j-1] = myArray[j];
-                                myArray[j] = temp;
+                    for (int i = 1; i < n; i++) 
+                    {
+                        int key = myArray[i]; 
+                        int j = i - 1;
 
+                        
+                        while (j >= 0 && myArray[j] > key)
+                        {
+                            myCompare++; 
+                            myArray[j + 1] = myArray[j];
+                            j--;
+                            myChange++;
+                        }
+
+                        myArray[j + 1] = key;
+                    }
+                    myStopwatch.Stop();
+                    break;
+                
+                //Shaker sort
+                case 3:
+                    myStopwatch.Start();
+                    for(int i =0; i < n/2; i++) {
+
+                        //tam
+                        for(int j = 0; j < n-i-1; j++) {
+                            myCompare++;
+                            if(myArray[j] > myArray[j+1]) {
+                                int tmp = myArray[j+1];
+                                myArray[j+1] = myArray[j];
+                                myArray[j] = tmp;
                                 myChange++;
                             }
-                            
+                        }
+
+                        //zpět
+                        for(int j = n-1-i; j > 0; j--) {
+                            myCompare++;
+                            if(myArray[j] < myArray[j-1]) {
+                                int tmp = myArray[j];
+                                myArray[j] = myArray[j-1];
+                                myArray[j-1] = tmp;
+                                myChange++;
+                            }
+                        }
+                    }
+                    myStopwatch.Stop();
+
+                    break;
+
+                //Comb sort 
+                case 4:
+                    myStopwatch.Start();
+                    int gap = n;
+                    const double shrinkFactor = 1.3;
+                    bool swapped = true;
+
+                    while (gap > 1 || swapped)
+                    {
+                        if (gap > 1)
+                        {
+                            gap = (int)(gap / shrinkFactor);
+                        }
+
+                        swapped = false;
+
+                        for (int i = 0; i + gap < n; i++)
+                        {
+                            myCompare++;
+                            if (myArray[i] > myArray[i + gap])
+                            {
+                                int temp = myArray[i];
+                                myArray[i] = myArray[i + gap];
+                                myArray[i + gap] = temp;
+                                myChange++;
+                                swapped = true;
+                            }
                         }
                     }
                     myStopwatch.Stop();
                     
 
                     break;
-                
-                //Shaker sort
-                case 3:
-                    
-
-                    break;
-
-                //Comb sort 
-                case 4:
-                    
-
-                    break;
 
                 //Shell sort
                 case 5:
+                    myStopwatch.Start();
+                    int interval = n / 2; 
+
+                    while (interval > 0)
+                    {
+                        for (int i = interval; i < n; i++)
+                        {
+                            int temp = myArray[i];
+                            int j = i;
+
+                            
+                            while (j >= interval && myArray[j - interval] > temp)
+                            {
+                                myCompare++;
+                                myArray[j] = myArray[j - interval];
+                                j -= interval;
+                                myChange++;
+                            }
+
+                            myArray[j] = temp;
+                        }
+
+                        interval /= 2; 
+                    }
+                    myStopwatch.Stop();
+
                     
 
                     break;
@@ -176,10 +255,13 @@ class Program {
             for(int i=0; i<n; i++) {
                 Console.Write("{0}; ", myArray[i]); 
             }
-            Console.WriteLine("\n\nČas potřebný na seřazení pole: {0}", myStopwatch.Elapsed);
-            Console.WriteLine("\n\nPočet porovnání: {0}", myCompare);
+            Console.WriteLine("\n\n");
+            Console.WriteLine("====================================================");
+            Console.WriteLine("Čas potřebný na seřazení pole: {0}", myStopwatch.Elapsed);
+            Console.WriteLine("\nPočet porovnání: {0}", myCompare);
             Console.WriteLine("\nPočet výměn: {0}", myChange);
-            Console.WriteLine();
+            Console.WriteLine("====================================================");
+            Console.WriteLine("\n\n");
             Console.WriteLine("Pro opakování stiskněte klávesu a");
             again = Console.ReadLine();
 
