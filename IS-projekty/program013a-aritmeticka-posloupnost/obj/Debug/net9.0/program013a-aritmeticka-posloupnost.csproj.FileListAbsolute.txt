@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\bin\Debug\net9.0\program013a-aritmeticka-posloupnost.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\bin\Debug\net9.0\program013a-aritmeticka-posloupnost.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\bin\Debug\net9.0\program013a-aritmeticka-posloupnost.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\bin\Debug\net9.0\program013a-aritmeticka-posloupnost.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\bin\Debug\net9.0\program013a-aritmeticka-posloupnost.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\program013a-aritmeticka-posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\program013a-aritmeticka-posloupnost.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\program013a-aritmeticka-posloupnost.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\program013a-aritmeticka-posloupnost.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\program013a-aritmeticka-posloupnost.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\program013a-aritmeticka-posloupnost.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\refint\program013a-aritmeticka-posloupnost.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\program013a-aritmeticka-posloupnost.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\program013a-aritmeticka-posloupnost.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program013a-aritmeticka-posloupnost\obj\Debug\net9.0\ref\program013a-aritmeticka-posloupnost.dll
