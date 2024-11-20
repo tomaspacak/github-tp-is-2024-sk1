@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\bin\Debug\net9.0\program012a-intervaly.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\refint\program012a-intervaly.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\program012a-intervaly.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program012a-intervaly\obj\Debug\net9.0\ref\program012a-intervaly.dll
