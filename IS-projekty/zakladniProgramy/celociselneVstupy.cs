@@ -24,14 +24,14 @@ class Program {
             Console.Write("Zadejte dolní mez v celém čísle: ");
             int dm;
             while(!int.TryParse(Console.ReadLine(), out dm)) {
-                Console.Write ("Nezadali jste celé číslo");
+                Console.Write ("Nezadali jste celé číslo, zadejte: ");
             }
             Console.WriteLine();
 
             Console.Write("Zadejte horní mez v celém čísle: ");
             int hm;
             while(!int.TryParse(Console.ReadLine(), out hm)) {
-                Console.Write ("Nezadali jste celé číslo");
+                Console.Write ("Nezadali jste celé číslo, zadejte: ");
             }
             Console.WriteLine();
             

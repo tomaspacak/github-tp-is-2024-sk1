@@ -146,3 +146,9 @@ class Program {
         } 
     }
 }
+
+//Mozne reseni
+
+/*
+
+*/
