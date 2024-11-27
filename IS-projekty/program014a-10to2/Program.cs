@@ -8,41 +8,45 @@ class Program {
         while (again=="a") {
             Console.Clear();
             Console.WriteLine("*************************************");
-            Console.WriteLine("***decimal to binary***");
+            Console.WriteLine("**********decimal to binary**********");
             Console.WriteLine("  **********Tomáš Pacák***********");
             Console.WriteLine("            **********");
             Console.WriteLine();
 
             //input
             Console.WriteLine();
-            Console.Write("Zadejte číslo v desítkové soustavě: ");
-            int number;
-            while(!int.TryParse(Console.ReadLine(), out number)) {
-                Console.Write ("Nezadali jste celé číslo");
+            Console.Write("Zadejte celé číslo v desítkové soustavě: ");
+            uint cislo;
+            while(!uint.TryParse(Console.ReadLine(), out cislo)) {
+                Console.Write ("Nezadali jste celé číslo, zadejte celé číslo: ");
             }
             Console.WriteLine();
 
-            /*Console.Write("Zadejte dolní mez v celém čísle: ");
-            int dm;
-            while(!int.TryParse(Console.ReadLine(), out dm)) {
-                Console.Write ("Nezadali jste celé číslo");
-            }
-            Console.WriteLine();
+            uint[] myArray = new uint[32];
+            uint zaloha = cislo;
+            uint zbytek;
 
-            Console.Write("Zadejte horní mez v celém čísle: ");
-            int hm;
-            while(!int.TryParse(Console.ReadLine(), out hm)) {
-                Console.Write ("Nezadali jste celé číslo");
-            }
-            Console.WriteLine();*/
-            
-
-
-            for(int=0; number > 0; int++) {
-                zbytek = 0;
-                number = (number - zbytek) / ;
+            uint i;
+            for(i=0; cislo > 0; i++) {
+                zbytek = cislo % 2;
+                cislo = (cislo - zbytek)/2;
                 myArray[i] = zbytek;
+
+                Console.ForegroundColor = ConsoleColor.DarkGreen;
+                Console.WriteLine("Celá část = {0}; Zbytek = {1}", cislo, zbytek);
             }
+
+
+            Console.WriteLine("\n\nPoslední využitá buňka pole: {0}", i-1);
+
+            Console.ForegroundColor = ConsoleColor.Yellow;
+
+            Console.WriteLine("\n\nVýsledek:");
+            for(int j=(int)(i-1); j>=0; j--) {
+                Console.Write("{0}",myArray[j]);
+            }
+
+            
 
             //konec programu/pokracovani
             Console.WriteLine();
