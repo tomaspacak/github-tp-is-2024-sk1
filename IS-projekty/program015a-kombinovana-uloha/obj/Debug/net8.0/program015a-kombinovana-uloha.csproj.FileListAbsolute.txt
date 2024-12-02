@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\bin\Debug\net8.0\program015a-kombinovana-uloha.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\bin\Debug\net8.0\program015a-kombinovana-uloha.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\bin\Debug\net8.0\program015a-kombinovana-uloha.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\bin\Debug\net8.0\program015a-kombinovana-uloha.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\bin\Debug\net8.0\program015a-kombinovana-uloha.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\program015a-kombinovana-uloha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\program015a-kombinovana-uloha.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\program015a-kombinovana-uloha.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\program015a-kombinovana-uloha.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\program015a-kombinovana-uloha.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\program015a-kombinovana-uloha.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\refint\program015a-kombinovana-uloha.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\program015a-kombinovana-uloha.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\program015a-kombinovana-uloha.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program015a-kombinovana-uloha\obj\Debug\net8.0\ref\program015a-kombinovana-uloha.dll
