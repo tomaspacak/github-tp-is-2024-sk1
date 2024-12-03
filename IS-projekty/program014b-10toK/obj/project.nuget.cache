@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "D6B0UaBGUEw=",
+  "dgSpecHash": "yXWj9iJ3SBA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Uzivatel\\Desktop\\i_s\\github-tp-is-2024-sk1\\IS-projekty\\program014b-10toK\\program014b-10toK.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pacak\\Documents\\is_2024\\github-tp-is-2024-sk1\\IS-projekty\\program014b-10toK\\program014b-10toK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pacak\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.11\\microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\pacak\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.11\\microsoft.windowsdesktop.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\pacak\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.11\\microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512",
+    "C:\\Users\\pacak\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.11\\microsoft.netcore.app.host.win-x64.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
