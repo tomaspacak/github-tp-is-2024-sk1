@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\bin\Debug\net9.0\program017a-Fibonacci.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\refint\program017a-Fibonacci.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\program017a-Fibonacci.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program017a-Fibonacci\obj\Debug\net9.0\ref\program017a-Fibonacci.dll
