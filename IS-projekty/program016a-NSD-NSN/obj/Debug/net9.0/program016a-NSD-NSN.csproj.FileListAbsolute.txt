@@ -1,0 +1,15 @@
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\bin\Debug\net9.0\program016a-NSD-NSN.exe
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\bin\Debug\net9.0\program016a-NSD-NSN.deps.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\bin\Debug\net9.0\program016a-NSD-NSN.runtimeconfig.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\bin\Debug\net9.0\program016a-NSD-NSN.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\bin\Debug\net9.0\program016a-NSD-NSN.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\program016a-NSD-NSN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\program016a-NSD-NSN.AssemblyInfoInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\program016a-NSD-NSN.AssemblyInfo.cs
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\program016a-NSD-NSN.csproj.CoreCompileInputs.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\program016a-NSD-NSN.sourcelink.json
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\program016a-NSD-NSN.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\refint\program016a-NSD-NSN.dll
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\program016a-NSD-NSN.pdb
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\program016a-NSD-NSN.genruntimeconfig.cache
+C:\Users\pacak\Documents\is_2024\github-tp-is-2024-sk1\IS-projekty\program016a-NSD-NSN\obj\Debug\net9.0\ref\program016a-NSD-NSN.dll
