@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program019a-vanocni-kombinovana")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1542c7205d3d0704254ddb26ab415334c2bd34e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88b7303463bf853ea0b46fdfd980d8cd04b800d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("program019a-vanocni-kombinovana")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program019a-vanocni-kombinovana")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
