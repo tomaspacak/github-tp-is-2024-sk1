@@ -194,6 +194,68 @@ class Program {
                 median = (myArray[med1]+myArray[med2]) / 2.0;
             }
             Console.WriteLine("Medián: {0}", median);
+
+            //down 4 to binar
+            int number= myArray[down4];
+            int[] zbytek = new int[32];
+            int numberB = number;
+            int iBin;
+            for(iBin = 0; numberB > 0; iBin++) {
+                zbytek[iBin] = numberB % 2;
+                numberB = (numberB-zbytek[iBin])/2;
+            }
+
+            Console.WriteLine();
+            Console.Write($"číslo {down4} v bin soustavě: ");
+            for(int i=iBin-1; i>=0; i--) {
+                Console.Write($"{zbytek[i]}");
+            }
+            Console.WriteLine();
+            //binar to decimal
+            /*int dec = 0;
+            int num=0;
+            for(int i=iBin-1; i>=0; i--) {
+                int exponent = 2;
+                for(int j=i; j >= 0; j--){
+                    exponent*=2;
+                }
+                dec = zbytek[i]*exponent;
+                num+=dec;
+                Console.Write($"{zbytek[i]}");
+            }
+            Console.WriteLine($"číslo {num} v dec soustavě: ");*/
+
+            //obrazec
+            int width = 6;
+            int height = 7;
+            Console.WriteLine();
+            for(int i=0; i < height; i++) {
+                
+                
+                for(int j=0; j<width; j++){
+
+                    if(i < height/3 && (j<= width/3 || j>width-(width/3)) ) {
+                        Console.Write(" ");
+                    }
+                    if(i < height/3 && j>=width/3 && j<width-(width/3)){
+                        Console.Write(" *");
+                    }
+
+                    if(i >= height/3 && i<height-(height/3)){
+                        Console.Write("* ");
+                    }
+                    
+                    if(i>=height-height/3 && (j<= width/3 || j>width-(width/3))) {
+                        Console.Write(" ");
+                    }
+                    if(i >=height- height/3 && j>=width/3 && j<width-(width/3)){
+                        Console.Write(" *");
+                    }
+
+                }
+                Console.WriteLine();
+            }
+
             
 
             Console.WriteLine();
